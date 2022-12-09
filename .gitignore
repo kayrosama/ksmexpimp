@@ -6,10 +6,6 @@ __pycache__/
 */migrations/*
 **/migrations/*
 */logs/*
-config/*
-staticfiles/*
-db.sqlite3
-media
 .idea
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
